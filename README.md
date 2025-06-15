@@ -37,3 +37,12 @@ We are committed to closing the language gap in AI by making Hausa a first-class
 - [ ] REST API + WebSocket support
 
 ---
+
+## 📦 Dependencies
+
+- [Faster-Whisper](https://github.com/guillaumekln/faster-whisper)
+- [gTTS](https://pypi.org/project/gTTS/)
+- [ffmpeg](https://ffmpeg.org/) (for audio format conversion)
+
+![GitHub stars](https://img.shields.io/github/stars/abdulsahabi/HausaVoice?style=social)
+![License](https://img.shields.io/github/license/abdulsahabi/HausaVoice)
