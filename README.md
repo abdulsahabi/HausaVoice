@@ -1,16 +1,39 @@
-# HausaVoice 🎙️🇳🇬
+# HausaVoice 🔊🇳🇬
 
-**HausaVoice** is an open-source voice AI project dedicated to building accurate and accessible **Hausa Speech-to-Text (STT)** and **Text-to-Speech (TTS)** tools.
+**HausaVoice** is an open-source **voice AI library** focused on building accurate and accessible **Hausa Speech-to-Text (STT)** and **Text-to-Speech (TTS)** models.
 
-### 💡 Mission
-
-To empower developers, educators, and organizations with high-quality Hausa speech tools for real-world voice AI use — including mobile assistants, learning tools, and smart communication platforms.
+Built by Hausa developers, for Hausa speakers.
 
 ---
 
-### ✅ Features
+## 💡 Mission
 
-- 🎤 Hausa Audio Transcription (STT)
-- 🔊 Hausa Voice Generation (TTS)
-- 📱 Mobile Integration (React Native)
-- 🌍 Community Contributions for Dataset Building
+To empower African developers and researchers with powerful, flexible, and accurate Hausa voice tools — enabling them to build smart apps, voice assistants, and learning tools in Hausa.
+
+We are committed to closing the language gap in AI by making Hausa a first-class language in speech technology.
+
+---
+
+## 🔧 What HausaVoice Is
+
+- A developer-friendly **Python package / Node.js module**
+- Provides APIs for:
+  - 🎙️ **Hausa Speech-to-Text (STT)**
+  - 🔊 **Hausa Text-to-Speech (TTS)**
+- Built with community-curated datasets, fine-tuned models, and native Hausa audio
+- Easily integratable in **voice apps**, **bots**, **assistants**, and **educational tools**
+
+---
+
+## ✅ Features (Planned)
+
+- [x] Whisper-based Hausa transcription (baseline)
+- [x] gTTS Hausa voice output (TTS)
+- [ ] Convert audio from `.aac`/`.mp3` to `.wav`
+- [ ] Build CLI & web demo
+- [ ] Custom Hausa speech datasets (open-source)
+- [ ] Fully-trained native Hausa STT & TTS models
+- [ ] Deploy as installable package (via pip/NPM)
+- [ ] REST API + WebSocket support
+
+---
